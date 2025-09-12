@@ -9,3 +9,7 @@ source https://www.learnpytorch.io/
 ### PyTorch Workflow
 
 [PyTorch Workflow](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/01_pytorch_workflow.ipynb)
+
+### PyTorch Binary and Multi-class Classification
+
+[PyTorch Binary and Multi-class Classification](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/02_pytorch_classification.ipynb)
