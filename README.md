@@ -13,3 +13,7 @@ source https://www.learnpytorch.io/
 ### PyTorch Binary and Multi-class Classification
 
 [PyTorch Binary and Multi-class Classification](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/02_pytorch_classification.ipynb)
+
+### PyTorch Computer Vision
+
+[PyTorch Computer Vision](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/03_pytorch_computer_vision.ipynb)
