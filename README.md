@@ -22,6 +22,6 @@ source https://www.learnpytorch.io/
 
 [PyTorch Custom Dataset](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/04_pytorch_custom_dataset.ipynb)
 
-### Transfer Learning
+### PyTorch Transfer Learning
 
-[Transfer Learning](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/05_transfer_learning.ipynb)
+[PyTorch Transfer Learning](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/05_pytorch_transfer_learning.ipynb)
