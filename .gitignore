@@ -2,3 +2,4 @@ models/*
 __pycache__/*
 data/*
 pytorch-deep-learning/*
+images/*
