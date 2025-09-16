@@ -25,3 +25,7 @@ source https://www.learnpytorch.io/
 ### PyTorch Transfer Learning
 
 [PyTorch Transfer Learning](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/05_pytorch_transfer_learning.ipynb)
+
+### PyTorch Experiment Tracking
+
+[PyTorch Experiment Tracking](https://github.com/aungsannphyo/PyTorch-for-Deep-Learning-Machine-Learning/blob/main/06_pytorch_experiment_tracking.ipynb)
